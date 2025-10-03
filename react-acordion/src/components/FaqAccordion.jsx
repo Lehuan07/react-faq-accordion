@@ -1,7 +1,13 @@
+import "../styles/AcordionStyless.css"
+
 const FaqAccordion = () => {
+    
+    
     return (
-        <div style={{ background: "red", height: "100vh", color: "white" }}>
-        <h1>Hola Nahuel 🚀</h1>
+        <div className="layout">
+            <div className="">
+
+            </div>
         </div>
     )
 }

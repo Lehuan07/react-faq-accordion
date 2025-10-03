@@ -5,3 +5,7 @@ body {
   background-color: hsl(275, 100%, 97%);
   color: hsl(292, 42%, 14%);
 }
+
+h1{
+  display: flex;
+}
